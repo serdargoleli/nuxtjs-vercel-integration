@@ -1,2 +1,2 @@
 # nuxtjs-vercel-integration
-Nuxt.js integration vercel
+Nuxt.js integration vercel example
